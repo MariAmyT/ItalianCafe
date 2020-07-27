@@ -1,0 +1,2 @@
+# ItalianCafe
+Fullscreen
